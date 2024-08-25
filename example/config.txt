@@ -1,0 +1,2 @@
+Prefix plugins/DT/example/
+Plugin DT inputfile input.csv outputfile output.png
